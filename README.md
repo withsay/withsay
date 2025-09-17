@@ -40,5 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=withsay&show_icons=true&locale=TR&theme=dark" alt="withsay" /></p>
 
 
-- ![Profile Photo](https://avatars.githubusercontent.com/u/49319271?v=4)
-- [Visit my other profile](https://github.com/withsay)
+<a href="https://github.com/umutbaris00">
+  <img src="https://avatars.githubusercontent.com/u/49319271?v=4" alt="Other GitHub Profile" width="100" height="100" style="border-radius: 50%;">
+</a>
