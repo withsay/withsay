@@ -38,3 +38,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=withsay&show_icons=true&locale=TR&theme=dark" alt="withsay" /></p>
+
+
+- ![Profile Photo](https://avatars.githubusercontent.com/u/49319271?v=4)
+- [Visit my other profile](https://github.com/withsay)
