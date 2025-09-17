@@ -41,5 +41,5 @@
 
 
 <a href="https://github.com/umutbaris00">
-  <img src="https://avatars.githubusercontent.com/u/49319271?v=4" alt="Other GitHub Profile" width="100" height="100" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/148716458?v=4" alt="Other GitHub Profile" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
 </a>
