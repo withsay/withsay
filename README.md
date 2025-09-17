@@ -5,7 +5,7 @@
 
 [<img src="https://img.shields.io/discord/788400950351888425?color=5661F6&label=Nexus%20Land&style=for-the-badge" />](https://discord.gg/b2FAJmMGbY)
 
-![](https://komarev.com/ghpvc/?username=umutbaris00&style=for-the-badge&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=withsay&style=for-the-badge&color=ff69b4)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,4 +37,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutbaris00&show_icons=true&locale=TR&theme=dark" alt="withsay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=withsay&show_icons=true&locale=TR&theme=dark" alt="withsay" /></p>
